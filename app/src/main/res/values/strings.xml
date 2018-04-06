@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">Kolkal Griya</string>
+    <string name="profile"> \tKolkal Griya adalah produk manisan kolang kaling yang diproduksi oleh industri rumah Dapur Eny.
+        Owner Kolkal Griya adalah Eny Sedyanti, dan produk ini sudah di produksi sejak tahun 2014.\n\n
+
+        \tAwalnya usaha ini hanya sebagai terapi untuk mengobati ayahnya owner yang tulang tangannya kaku. Kemudian manisan ini hanya
+        sebagai pemberian pada tetangga sekitar pada saat Ramadhan. Hingga mulai dijual pada tetangga sekitar, dan semakin lama semakin berkembang.
+    </string>
+    <string name="profile2"> \tSetelah itu Kolkal Griya mulai meningkatkan kualitas dengan cara mendapatkan legalitas dari Dinas Kesehatan. Kini Kolkal Griya telah mencapai
+        beberapa sertifikat legalitas seperti P-IRT dari Badan Pengawas Obat dan Makanan (BPOM), dan Sertifikat Halal dari Majelis Ulama Indonesia (MUI).\n\n
+
+        \tSelain itu Kolkal Griya juga merupakan salah satu dari lima usaha yang mendapatkan penghargaan Piagam Bintang Satu Keamanan Pangan (One Star Award)
+         dari Dinas Kesehatan Depok pada tahun 2016. Kolkal Griya juga pernah diliput salah satu surat kabar, dan acara televisi lokal.\n\n
+
+        \tDapur Eny juga aktif mengikuti komunitas-komunitas lokal, serta bazaar, dan pameran seperti AGRINEX 2016 dan Jakarta Food Festival.
+    </string>
+    <string name="homie"> Manisan Kolang Kaling Premium
+    </string>
+    <string name="homie2">NIKMAT. SEHAT. BERMANFAAT.</string>
+    <string name="homie3">Instagram:\n@kolkal_griya</string>
+    <string name="gall1">Kolkal Griya menerima Penghargaan Piagam Bintang Satu (One Star Award) 2016</string>
+    <string name="gall2">Kolkal Griya saat diliput televisi lokal</string>
+    <string name="gall3">Owner Kolkal Griya bersama Pradi Supriatna (Wakil Walikota Depok 2016)</string>
+    <string name="gall4">Owner Kolkal Griya bersama Chintya Lamusu (Selebritis)</string>
+    <string name="gall5">Kolkal Griya berpartisipasi pada Fruit Indonesia 2016</string>
+    <string name="gall6">Owner Kolkal Griya bersama Pegawai Garuda Indonesia</string>
+    <string name="gall7">Owner Kolkal Griya bersama Idris Abdul Somad (Walikota Depok 2016)</string>
+    <string name="gall8">Kolkal Griya berpartisipasi pada AGRINEX 2015</string>
+    <string name="gall9">Kolkal Griya berpartisipasi pada Bazaar oleh Dinas Perindustrian dan Perdagangan Kota Depok</string>
+    <string name="sukses">Silahkan lakukan pembayaran dengan cara tranfer ke salah satu rekening berikut:\n\n
+        BCA: (xxx) xxxxxxxxxx\natas nama: Eny Sedyanti\nMandiri: (xxx) xxxxxxxxxx\natas nama: Eny Sedyanti\n\ndengan jumlah sebesar:</string>
+    <string name="sukses2">Dengan Berita:</string>
+    <string name="sukses3">Konfirmasi pembayaran anda dengan mengirim bukti pembayaran ke:\n\n
+    Whatsapp: 08126880169\natau\nEmail: eny.sedyanti@gmail.com</string>
+    <string name="sukses4">Apabila konfirmasi pembayaran tidak dilakukan sebelum :</string>
+    <string name="sukses5">Maka pesanan akan dibatalkan.</string>
+
+</resources>

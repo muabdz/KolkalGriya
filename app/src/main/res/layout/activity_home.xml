@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView  xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:fillViewport="true"
+    android:scrollbars="vertical"
+    android:scrollbarStyle="outsideOverlay"
+    android:layout_gravity="fill_vertical"
+    android:background="@color/colorPrimary">
+
+
+    <LinearLayout
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    tools:context="muadz.kolkalgriya.Home"
+    android:gravity="top"
+    android:layout_gravity="center">
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:src="@drawable/logoh"
+        android:adjustViewBounds="true"
+        android:layout_marginBottom="10dp"/>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:gravity="center"
+        android:layout_margin="5dp"
+
+        >
+
+        <Button
+            android:layout_gravity="start"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:id="@+id/bProducts"
+            android:text="Produk"
+            android:layout_weight="1"
+            android:padding="2dp"/>
+
+        <Button
+            android:layout_gravity="center"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:id="@+id/bGallery"
+            android:text="Galeri"
+            android:layout_weight="1"
+            android:padding="2dp"/>
+
+
+        <Button
+            android:layout_gravity="end"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:id="@+id/bProfile"
+            android:text="Profil"
+            android:layout_weight="1"
+            android:padding="2dp"/>
+
+
+    </LinearLayout>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center_horizontal"
+            android:textSize="20sp"
+            android:textStyle="bold"
+            android:text="@string/homie"
+            android:padding="10sp"
+            android:textColor="#ffffff"
+            android:background="@color/colorPrimaryDark"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center_horizontal"
+            android:textSize="20sp"
+            android:text="@string/homie2"
+            android:padding="10sp"
+            android:textColor="#ffffff"
+            android:background="@color/colorPrimaryDark"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center_horizontal"
+            android:textSize="20sp"
+            android:text="@string/homie3"
+            android:padding="10sp"
+            android:textColor="#ffffff"
+            android:background="@color/colorPrimaryDark"/>
+
+</LinearLayout>
+</ScrollView>
